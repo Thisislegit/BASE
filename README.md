@@ -1,5 +1,7 @@
 # BASE: Bridging the Gap between Cost and Latency for Query Optimization
 
+BASE is a two-stage RL-based framework that bridges the gap between cost and latency for training a learned query optimizer efficiently. For more details, check out the VLDB 2023 paper: [BASE: Bridging the Gap between Cost and Latency for Query Optimization.](https://www.vldb.org/pvldb/vol16/p1958-chen.pdf)
+
 ## Usage
 
 BASE is a two stage training framework for learned query optimizer:  
