@@ -4,7 +4,7 @@ BASE is a two-stage RL-based framework that bridges the gap between cost and lat
 
 ## Dataset
 
-The pre-training queries for IMDB are available at this [link].(https://drive.google.com/drive/folders/16Dguw7xDWR19K_B7ZPUscfdCRg5r5mQ4?usp=drive_link)
+The pre-training queries for IMDB are available at this [link](https://drive.google.com/drive/folders/16Dguw7xDWR19K_B7ZPUscfdCRg5r5mQ4?usp=drive_link).
 
 ## Usage
 
