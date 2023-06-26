@@ -2,6 +2,10 @@
 
 BASE is a two-stage RL-based framework that bridges the gap between cost and latency for training a learned query optimizer efficiently. For more details, check out the VLDB 2023 paper: [BASE: Bridging the Gap between Cost and Latency for Query Optimization.](https://www.vldb.org/pvldb/vol16/p1958-chen.pdf)
 
+## Dataset
+
+The pre-training queries for IMDB are available at this [link].(https://drive.google.com/drive/folders/16Dguw7xDWR19K_B7ZPUscfdCRg5r5mQ4?usp=drive_link)
+
 ## Usage
 
 BASE is a two stage training framework for learned query optimizer:  
